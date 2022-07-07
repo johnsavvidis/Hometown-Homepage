@@ -1,0 +1,82 @@
+/**
+Palette: https://scrimba.com/links/hometown-palette
+RED: #E63946
+LIGHT: #F1FAEE
+AQUA: #A8DADC
+LIGHT BLUE: #457B9D
+DARK BLUE: #1D3557
+
+*/
+
+body {
+    margin: 0;
+    
+}
+
+.Header-font{
+    background-image: url("torshov.jpg");
+    background-size: cover;
+    padding: 10px 0 40px 0;
+}
+
+img {
+    width: 100px;
+    margin: 20px 0px 0px 40px;
+}
+
+.activities-pic {
+    border-radius: 100px;
+}
+
+.header{
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 37px;
+    text-align: center;
+    color: #FFFFFF;
+    margin: 122px 250px 34px 250px;
+    top: 122px;
+    background: #1D3557;
+    border-radius: 10px;
+}
+
+.Second-line{
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18.72px;
+    line-height: 22px;
+    text-align: center;
+    color: #FFFFFF;
+    margin: 52px 154px 0 154px;
+    background: #457B9D;
+    border-radius: 10px;
+}
+
+.profile-pic{
+    width: 180px;
+    height: 248.67px;
+    left: 173px;
+    top: 73px;
+    border-radius: 10px;
+}
+
+.Business-card{
+    display: block;
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background: #A8DADC;
+    color: #2b2839;
+    border-radius: 10px;
+    border-bottom: 6px solid #d8cefe;
+}
+
+#guide-description{
+    font-style: italic; 
+}
